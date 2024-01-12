@@ -1,0 +1,10 @@
+account_id: '975050319251'
+aws_access_key_id: AKIA6GBMHEWJT5XI62OF
+aws_secret_access_key: 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
+deploy_target_bucket: syndicate-artefacts-9750-5031-9251-eucentral1
+extended_prefix_mode: false
+project_path: C:\Users\Vitalii_Nazaruk\Desktop\Projects\AWS Serverless course\task01
+region: eu-central-1
+resources_prefix: cnd-
+resources_suffix: -penv
+use_temp_creds: false
